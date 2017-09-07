@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            'Jin Zhang'
-tagline:          'Jin's blog'
-description:      'Jin's data blog'
+title:            Jin Zhang
+tagline:          'blog by Jin'
+description:      'data blog by Jin'
 url:              http://jin-data.com
 baseurl:          /
 
